@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Set the following values on the form:
+Short description = test
+and Caller = vijitha thunga
+and Active = true</description>
+        <display_name>Set Field Values</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>2</order>
+        <snapshot/>
+        <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>sunil.avva</sys_created_by>
+        <sys_created_on>2020-04-06 09:30:05</sys_created_on>
+        <sys_id>48bc7b38db88d810dcbf870968961915</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Field Values</sys_name>
+        <sys_package display_value="testcsg" source="x_snc_testcsg">66b95bf0db48d810dcbf87096896199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testcsg">66b95bf0db48d810dcbf87096896199e</sys_scope>
+        <sys_update_name>sys_atf_step_48bc7b38db88d810dcbf870968961915</sys_update_name>
+        <sys_updated_by>sunil.avva</sys_updated_by>
+        <sys_updated_on>2020-04-06 09:30:05</sys_updated_on>
+        <table>incident</table>
+        <test display_value="test version">5117eb3cdb48d810dcbf87096896193a</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=48bc7b38db88d810dcbf870968961915"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>48bc7b38db88d810dcbf870968961915</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>sunil.avva</sys_created_by>
+        <sys_created_on>2020-04-06 09:30:05</sys_created_on>
+        <sys_id>4fecfb38db88d810dcbf87096896190b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sunil.avva</sys_updated_by>
+        <sys_updated_on>2020-04-06 09:30:05</sys_updated_on>
+        <value>short_description=test^caller_id=0f569bb0db48d810dcbf870968961913^active=true^EQ</value>
+        <variable display_value="">b3dba2465320220002c6435723dc34f0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>48bc7b38db88d810dcbf870968961915</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>sunil.avva</sys_created_by>
+        <sys_created_on>2020-04-06 09:30:05</sys_created_on>
+        <sys_id>87ecfb38db88d810dcbf87096896190b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sunil.avva</sys_updated_by>
+        <sys_updated_on>2020-04-06 09:30:05</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="">946f3c1a0f23330072e6452bc4767eda</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>48bc7b38db88d810dcbf870968961915</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>sunil.avva</sys_created_by>
+        <sys_created_on>2020-04-06 09:30:05</sys_created_on>
+        <sys_id>8becfb38db88d810dcbf87096896190b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sunil.avva</sys_updated_by>
+        <sys_updated_on>2020-04-06 09:30:05</sys_updated_on>
+        <value>incident</value>
+        <variable display_value="">424ca6465320220002c6435723dc34b5</variable>
+    </sys_variable_value>
+</record_update>

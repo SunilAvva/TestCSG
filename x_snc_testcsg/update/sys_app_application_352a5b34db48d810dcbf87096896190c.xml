@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>testcsg</description>
+        <device_type>browser</device_type>
+        <hint>testcsg</hint>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>sunil.avva</sys_created_by>
+        <sys_created_on>2020-04-06 06:58:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>352a5b34db48d810dcbf87096896190c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testcsg</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="testcsg" source="x_snc_testcsg">66b95bf0db48d810dcbf87096896199e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testcsg">66b95bf0db48d810dcbf87096896199e</sys_scope>
+        <sys_update_name>sys_app_application_352a5b34db48d810dcbf87096896190c</sys_update_name>
+        <sys_updated_by>sunil.avva</sys_updated_by>
+        <sys_updated_on>2020-04-06 06:58:11</sys_updated_on>
+        <title>testcsg</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

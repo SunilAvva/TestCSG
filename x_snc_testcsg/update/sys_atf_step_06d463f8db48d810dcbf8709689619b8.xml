@@ -23,7 +23,7 @@
         <sys_updated_by>vijitha.thunga</sys_updated_by>
         <sys_updated_on>2020-04-06 07:45:18</sys_updated_on>
         <table>incident</table>
-        <test display_value="testCSG">bff32bb8db48d810dcbf8709689619ce</test>
+        <test display_value="">bff32bb8db48d810dcbf8709689619ce</test>
         <timeout/>
         <warning_message/>
     </sys_atf_step>
